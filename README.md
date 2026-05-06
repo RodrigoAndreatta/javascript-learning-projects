@@ -145,3 +145,17 @@ Cada projeto possui sua própria pasta e seu próprio `package.json`. Para rodar
 ```bash
 npm install
 npm run start
+```
+
+Para criar uma build de produção:
+
+```bash
+npm run build
+```
+
+Para o Netlify, a configuração usual de cada projeto é:
+
+```txt
+Build command: npm run build
+Publish directory: dist
+```
