@@ -1,0 +1,12 @@
+{
+  "name": "bankist-app",
+  "version": "1.0.0",
+  "description": "Bankist App",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir dist"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}

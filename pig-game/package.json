@@ -1,0 +1,12 @@
+{
+  "name": "pig-game",
+  "version": "1.0.0",
+  "description": "Pig Game",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir dist"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}

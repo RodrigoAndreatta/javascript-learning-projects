@@ -1,0 +1,12 @@
+{
+  "name": "guess-my-number",
+  "version": "1.0.0",
+  "description": "Guess My Number",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir dist"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
