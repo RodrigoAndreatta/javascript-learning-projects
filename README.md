@@ -6,31 +6,31 @@ The goal is not only to showcase finished applications, but also to show my prog
 
 ## Projects
 
-### 1. Guess My Number
+### 1. Guess My Number [guessmynumber-rodrigo.netlify.app](https://guessmynumber-rodrigo.netlify.app/)
 
 Guess My Number was one of my first JavaScript projects. It was developed using basic DOM manipulation and JavaScript fundamentals such as variables, conditionals, functions, event listeners, and simple manual UI updates.
 
 This project is intentionally simple because it represents the beginning of my learning process, when I was still getting comfortable with how JavaScript interacts with the browser.
 
-### 2. Pig Game
+### 2. Pig Game [piggame-rodrigo.netlify.app](https://piggame-rodrigo.netlify.app/)
 
 Pig Game was a step forward in complexity. In this project, I practiced working with game state, multiple players, dice rolls, score tracking, DOM updates, and event-driven logic.
 
 Compared to Guess My Number, this project required more organization because the interface changes constantly depending on the player turn, current score, total score, and winner state.
 
-### 3. Bankist App
+### 3. Bankist App [bankistapp-rodrigo.netlify.app](https://bankistapp-rodrigo.netlify.app/)
 
 Bankist App is a fictional banking application built to practice JavaScript array methods and more advanced data manipulation. It includes features such as logging in, viewing transactions, transferring money, requesting loans, closing an account, sorting movements, formatting values, working with dates, and handling a logout timer.
 
 This project was especially important because it helped me understand how methods like `map`, `filter`, `reduce`, `find`, `findIndex`, `some`, `forEach`, and `sort` can be used to transform, search, filter, and display real application data.
 
-### 4. Bankist Site
+### 4. Bankist Site [bankistsite-rodrigo.netlify.app](https://bankistsite-rodrigo.netlify.app/)
 
 Bankist Site is a fictional landing page that focuses on advanced DOM manipulation and browser events. It includes interactive interface patterns such as a modal window, smooth scrolling, event delegation, tabbed content, sticky navigation, section reveal animations, lazy loading images, and a slider component.
 
 This project was an important step because it moved beyond basic DOM updates and helped me understand how JavaScript can be used to create smoother, more dynamic user experiences in a real website layout.
 
-### 5. Mapty
+### 5. Mapty [mapty-rodrigo.netlify.app](https://mapty-rodrigo.netlify.app/)
 
 Mapty is a workout tracking application built with object-oriented programming, geolocation, the Leaflet map library, and local storage. It allows the user to register running and cycling workouts directly on a map.
 
