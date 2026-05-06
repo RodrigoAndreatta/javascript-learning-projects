@@ -62,3 +62,12 @@ Este projeto me ajudou a praticar a organização de lógicas repetidas e o gere
 ```bash
 npm install
 npm run start
+```
+
+## Comando de build
+
+```bash
+npm run build
+```
+
+Para o Netlify, use npm run build como comando de build e dist como diretório de publicação.
