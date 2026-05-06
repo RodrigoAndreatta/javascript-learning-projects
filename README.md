@@ -77,3 +77,71 @@ For Netlify, the usual configuration for each project is:
 Build command: npm run build
 Publish directory: dist
 ```
+
+---
+
+# Projetos de Aprendizado em JavaScript
+
+Este repositório foi criado para organizar os principais projetos que desenvolvi ao longo da minha jornada de aprendizado em JavaScript no curso de JavaScript do Jonas Schmedtmann.
+
+O objetivo não é apenas mostrar aplicações finalizadas, mas também demonstrar minha evolução conforme fui aprendendo novos conceitos de JavaScript passo a passo. Cada projeto representa um momento diferente do curso e foca em habilidades específicas, desde manipulação básica do DOM até programação orientada a objetos, geolocalização, local storage, datas, timers e lógicas de aplicação mais complexas.
+
+## Projetos
+
+### 1. [Guess My Number](https://guessmynumber-rodrigo.netlify.app/)
+
+Guess My Number foi um dos meus primeiros projetos em JavaScript. Ele foi desenvolvido utilizando manipulação básica do DOM e fundamentos da linguagem, como variáveis, condicionais, funções, event listeners e atualizações manuais simples na interface.
+
+Este projeto é intencionalmente simples, pois representa o início do meu processo de aprendizado, quando eu ainda estava me familiarizando com a forma como o JavaScript interage com o navegador.
+
+### 2. [Pig Game](https://piggame-rodrigo.netlify.app/)
+
+Pig Game foi um passo adiante em complexidade. Neste projeto, pratiquei o controle de estado do jogo, múltiplos jogadores, rolagem de dados, contagem de pontos, atualizações no DOM e lógica baseada em eventos.
+
+Comparado ao Guess My Number, este projeto exigiu mais organização, pois a interface muda constantemente dependendo da vez do jogador, da pontuação atual, da pontuação total e do estado de vitória.
+
+### 3. [Bankist App](https://bankistapp-rodrigo.netlify.app/)
+
+Bankist App é uma aplicação bancária fictícia criada para praticar métodos de arrays e manipulação de dados mais avançada em JavaScript. O projeto inclui funcionalidades como login, visualização de transações, transferência de dinheiro, solicitação de empréstimo, encerramento de conta, ordenação de movimentações, formatação de valores, trabalho com datas e um timer de logout.
+
+Este projeto foi especialmente importante porque me ajudou a entender como métodos como `map`, `filter`, `reduce`, `find`, `findIndex`, `some`, `forEach` e `sort` podem ser usados para transformar, buscar, filtrar e exibir dados reais de uma aplicação.
+
+### 4. [Bankist Site](https://bankistsite-rodrigo.netlify.app/)
+
+Bankist Site é uma landing page fictícia focada em manipulação avançada do DOM e eventos do navegador. O projeto inclui padrões de interface interativos, como janela modal, smooth scrolling, event delegation, conteúdo em abas, navegação sticky, animações de revelação de seções, lazy loading de imagens e um componente de slider.
+
+Este projeto foi uma etapa importante porque foi além das atualizações básicas no DOM e me ajudou a entender como o JavaScript pode ser usado para criar experiências mais fluidas e dinâmicas em um layout real de website.
+
+### 5. [Mapty](https://mapty-rodrigo.netlify.app/)
+
+Mapty é uma aplicação de registro de treinos desenvolvida com programação orientada a objetos, geolocalização, a biblioteca Leaflet e local storage. Ela permite que o usuário registre treinos de corrida e ciclismo diretamente em um mapa.
+
+Este projeto introduziu uma forma mais estruturada de pensar em aplicações, utilizando classes, herança, campos privados, event handling, APIs do navegador e persistência de dados. Ele também envolveu mais planejamento antes da codificação, fazendo com que o projeto se aproximasse mais de uma aplicação front-end real.
+
+## Próximo projeto: Forkify
+
+Ainda estou desenvolvendo o projeto final do curso, o Forkify. Ele deve ser concluído em breve e combinará muitos dos conceitos aprendidos ao longo do curso, incluindo JavaScript assíncrono, chamadas de API, módulos, arquitetura de aplicação, renderização, gerenciamento de estado e uma estrutura de projeto mais completa.
+
+Assim que o Forkify estiver finalizado, pretendo adicioná-lo a este repositório como o projeto final e mais avançado desta jornada de aprendizado.
+
+## Tecnologias utilizadas nos projetos
+
+- HTML
+- CSS
+- JavaScript
+- Manipulação do DOM
+- Arrays e objetos em JavaScript
+- Numbers, Dates e Timers em JavaScript
+- Programação Orientada a Objetos
+- Geolocation API
+- Local Storage
+- Leaflet
+- Parcel
+
+## Rodando um projeto localmente
+
+Cada projeto possui sua própria pasta e seu próprio `package.json`. Para rodar um deles localmente, abra a pasta do projeto no terminal e execute:
+
+```bash
+npm install
+npm run start
