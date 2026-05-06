@@ -33,3 +33,32 @@ npm run build
 ```
 
 For Netlify, use `npm run build` as the build command and `dist` as the publish directory.
+
+---
+
+# [Guess My Number](https://guessmynumber-rodrigo.netlify.app/)
+
+Guess My Number foi um dos meus primeiros projetos em JavaScript. Ele foi desenvolvido para praticar os fundamentos da linguagem, manipulação básica do DOM, manipulação de eventos, condicionais, controle simples de estado e atualizações manuais na página.
+
+Este projeto é intencionalmente simples, pois representa o começo da minha jornada de aprendizado em JavaScript.
+
+## Funcionalidades
+
+- Geração de um número secreto aleatório
+- Validação do palpite do usuário
+- Controle de pontuação e recorde
+- Feedback visual para estados de vitória e derrota
+- Funcionalidade de reiniciar o jogo
+
+## Tecnologias utilizadas
+
+- HTML
+- CSS
+- JavaScript
+- Parcel
+
+## Como rodar localmente
+
+```bash
+npm install
+npm run start
