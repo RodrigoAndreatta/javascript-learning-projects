@@ -1,4 +1,4 @@
-# Guess My Number
+# [Guess My Number](https://guessmynumber-rodrigo.netlify.app/)
 
 Guess My Number was one of my first JavaScript projects. It was built to practice the fundamentals of JavaScript, basic DOM manipulation, event handling, conditionals, simple state management, and manual updates to the page.
 
