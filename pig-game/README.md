@@ -1,4 +1,4 @@
-# Pig Game
+# [Pig Game](https://piggame-rodrigo.netlify.app/)
 
 Pig Game is a two-player dice game built after learning more about DOM manipulation, events, functions, and application state. Compared to the first projects, this one required more control over game flow and UI state.
 
