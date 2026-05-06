@@ -1,4 +1,4 @@
-# Mapty
+# [Mapty](https://mapty-rodrigo.netlify.app/)
 
 Mapty is a workout tracking application built with object-oriented programming and the browser Geolocation API. It was one of the most complete projects in this part of the course because it combined classes, inheritance, external libraries, local storage, and project planning.
 
